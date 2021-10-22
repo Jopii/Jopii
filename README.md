@@ -1,4 +1,4 @@
-![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")(Jopii.github.io)
+![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")
 
 
   **Hello! Welcome to my profile :D**
