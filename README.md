@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/Jopii/profile.git/BANNER.png "Header")]
+[![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")]
