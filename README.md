@@ -1,7 +1,7 @@
-![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")
+![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")(Jopii.github.io)
 
 
-  **Hello! Welcome to my profile :D**     Jopii.github.io
+  **Hello! Welcome to my profile :D**
 
 🖥️ I'm just a noobie dev trying to build something for my Xiaomi Mi Mix 3.🖥️
 
