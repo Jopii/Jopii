@@ -7,7 +7,7 @@
 
 🏹 Currently studying Videogames design and development.🏹
 
-✨ On my freetime i mke some 3D assets or concept arts.✨
+✨ On my freetime i make some 3D assets or concept arts.✨
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jopii&show_icons=true&theme=merko)
