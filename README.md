@@ -5,7 +5,7 @@
 
 🖥️ I'm just a noobie dev trying to build something for my Xiaomi Mi Mix 3.🖥️
 
-🏹 Currently studying Videogames design and development.🏹
+🏹 Currently studying videogames design and development.🏹
 
 ✨ On my freetime i make some 3D assets or concept arts.✨
 
