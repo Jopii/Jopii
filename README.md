@@ -3,7 +3,7 @@
 
   **Hello! Welcome to my profile :D**
 
-🖥️ I'm just a noobie dev trying to build something for my Xiaomi Mi Mix 3.🖥️
+🖥️ I'm just a noobie 3D artist that likes phone development 🖥️
 
 🏹 Currently studying videogames design and development.🏹
 
